@@ -3,6 +3,7 @@
 If you're looking for my current projects they can be found on my GitLab 🦊:
 
 🦊 [Go to GitLab Profile](https://gitlab.com/users/lucaspatenaude/projects)
+
 ☕️ [Go to Gitea Profile](https://git.lucaspatenaude.com/lucaspatenaude)
 
 # 🧠 Current Skills
