@@ -1,10 +1,8 @@
 ## Hello 👋
 
-If you're looking for my current projects they can be found on my GitLab 🦊:
+If you're looking for my current projects they can be found on my personal website:
 
-🦊 [Go to GitLab Profile](https://gitlab.com/users/lucaspatenaude/projects)
-
-☕️ [Go to Gitea Profile](https://lucaspatenaude.com)
+👨🏻‍💻 [Go to Personal Git Repository](https://lucaspatenaude.com)
 
 # 🧠 Current Skills
  1. C++ 🧪
@@ -13,6 +11,5 @@ If you're looking for my current projects they can be found on my GitLab 🦊:
  4. BASH 👨🏻‍💻
 
 # 🏗️ Current Projects
-
-1. [Personal Media Server Dashboard](https://gitlab.com/lucaspatenaude/Media-Server-Dashboard) 🍿
-2. [ScoreSpot](https://gitlab.com/lucaspatenaude/ScoreSpot) ⚽️
+�
+1. [ScoreSpot](https://lucaspatenaude.com/lucaspatenaude/ScoreSpot) ⚽️
