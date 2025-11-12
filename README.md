@@ -11,5 +11,5 @@ If you're looking for my current projects they can be found on my personal websi
  4. BASH 👨🏻‍💻
 
 # 🏗️ Current Projects
-�
+
 1. [ScoreSpot](https://lucaspatenaude.com/lucaspatenaude/ScoreSpot) ⚽️
